@@ -4,7 +4,7 @@
 #------------------------------------------------------------------------------
 #
 # This is a makefile fragment that replace configuration of grub menu
-# for SCG-60D0-484T.
+# for SPX-70D0-082F.
 #
 
 RECOVERY_ISO_GRUB_CONF = $(abspath ../build-config/recovery/grub-iso.cfg)

@@ -80,7 +80,7 @@
 
     { "Vendor": "agema", "Platform": "agema_ag7648c",  "BuildEnv": "Debian9", "Release": "None", "Architecture": "amd64",   "Notes": "Busybox patch fails." },
 
-    { "Vendor": "alphanetworks", "Platform": "alphanetworks_scg60d0_484t",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
+    { "Vendor": "alphanetworks", "Platform": "alphanetworks_bes2348t",        "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_snc60a0_486f",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_snc60a0_488f",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_snc60d0_488f",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
@@ -106,7 +106,7 @@
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_snx61a0_486f",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_snx61a0_486t",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_snx62b0_486t",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
-    { "Vendor": "alphanetworks", "Platform": "alphanetworks_spx60d0_082f",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
+    { "Vendor": "alphanetworks", "Platform": "alphanetworks_spx70d0_082f",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_spx70d0_168f",    "BuildEnv": "Debian9", "Release": "2021.05br", "Architecture": "amd64",   "Notes": "No notes." },
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_stx60a0_486f",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
     { "Vendor": "alphanetworks", "Platform": "alphanetworks_stx60b0_486f",    "BuildEnv": "Debian9", "Release": "2020.05br", "Architecture": "amd64",   "Notes": "No notes." },
